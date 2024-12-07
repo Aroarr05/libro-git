@@ -1,1 +1,2 @@
 Nombre Usuario <correo@ejemplo.com>
+Nuevo Autor <nuevoautor@ejemplo.com>
